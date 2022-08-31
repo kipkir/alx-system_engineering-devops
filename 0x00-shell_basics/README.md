@@ -1,1 +1,1 @@
-copy html files
+Copy all HTML files
