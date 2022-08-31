@@ -1,1 +1,1 @@
-list all files in directories in long format
+script that prints the type of file
