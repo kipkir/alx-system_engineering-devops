@@ -1,1 +1,1 @@
-content including hiden files
+content including hidden files
