@@ -1,1 +1,1 @@
-permissions to other users only
+rwxrxwx
