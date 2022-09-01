@@ -1,1 +1,1 @@
-directory my_dir with permissions 751
+change group owner to school
