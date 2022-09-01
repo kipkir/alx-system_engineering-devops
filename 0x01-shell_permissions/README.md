@@ -1,1 +1,1 @@
-permissions to execute by owner group and read by others
+adds execute permissions to the owner group and read to members
