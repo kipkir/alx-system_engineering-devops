@@ -1,1 +1,1 @@
-change owner of file hello to user betty
+change the owner of file hello to user betty
