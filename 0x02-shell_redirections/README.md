@@ -1,1 +1,1 @@
-removes all letters c and C
+displays all users and their home directories sorted by user
