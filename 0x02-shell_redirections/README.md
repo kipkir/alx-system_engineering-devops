@@ -1,1 +1,1 @@
-display alll files starting with a letter including capital
+print all characters a and c from input z and e respectively
