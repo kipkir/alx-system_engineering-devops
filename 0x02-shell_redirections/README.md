@@ -1,1 +1,1 @@
-display third line
+display lines on file best school
