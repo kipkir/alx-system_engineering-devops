@@ -1,1 +1,1 @@
-display third line of file iacta
+display third line
