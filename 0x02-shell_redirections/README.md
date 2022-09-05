@@ -1,1 +1,1 @@
-print confused smiley
+duplicate last line
