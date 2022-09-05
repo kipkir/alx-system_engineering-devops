@@ -1,1 +1,1 @@
-prints words that appear once
+display number of lines that contain the pattern bin
