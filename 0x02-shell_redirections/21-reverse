@@ -1,1 +1,2 @@
-script that reverses input
+#!/bin/bash
+rev
