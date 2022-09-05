@@ -1,1 +1,1 @@
-display lines on file best school
+overwrite the file if it does exist or create it
