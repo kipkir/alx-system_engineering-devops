@@ -1,1 +1,1 @@
-find all empty files
+print this
