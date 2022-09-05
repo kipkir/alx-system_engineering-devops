@@ -1,1 +1,1 @@
-display number of lines that contain the pattern bin
+containing pattern root and 3lines after them
