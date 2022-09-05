@@ -1,1 +1,1 @@
-display the content of a file
+Display these files
