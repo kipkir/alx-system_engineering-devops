@@ -1,1 +1,1 @@
-script directories
+ display directories and subs
