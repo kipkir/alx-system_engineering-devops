@@ -1,1 +1,1 @@
-add /action to the PATH
+a script that prints the number of directories
