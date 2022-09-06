@@ -1,1 +1,1 @@
-script that prints the results of power divided by divide
+script that converts a number from base 2 to base 10
