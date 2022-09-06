@@ -1,1 +1,1 @@
-print a number with two decimal
+print decimal
